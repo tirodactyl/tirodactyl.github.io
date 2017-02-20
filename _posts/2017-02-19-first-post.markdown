@@ -2,7 +2,6 @@
 layout: post
 title:  "First Post"
 date:   2017-02-19 10:02:09 -0800
-categories:
 ---
 Ah, the first post of a new blog. FINALLY.
 
