@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Let's Split Build Guide or: How I Learned to Stop Worrying and Love the
-Process
+title: Let's Split Build Guide or: How I Learned to Stop Worrying and Love the Process
 ---
 #Act I
 ##Scene i
@@ -64,20 +63,18 @@ I forgot to order and bought at a local Radio Shack).
 
 ##Scene iii
 Parts were ordered - there was only to wait. Decisions were made regarding the
-switches and keycaps and now a cold soldering iron awaited its future games...
+switches and keycaps and now a cold soldering iron waited to begin its work.
 
 #Act II
 This is the part where beginners should pay attention and learn from my
 mistakes. Check your work. Check. Your. Work. Twice. If you can test your
-circuit somehow, do it, that's going to be great, but visually check the fit of
-your parts as well. Now, as much as you'd like to listen to that advice - and you
-*will* try - you'll find that there's some aspect that you didn't think about,
-some little tidbit that doesn't seem like it should matter but you'll now find
-yourself checking and rechecking forever after that one time you feel like a
-fool. Or at least that's how it went with me...
+circuit, do so, but visually check the fit of your parts as well. Now, as much
+as you'd like to listen to that advice - and you *will* try - you'll find that
+there's some aspect that you didn't think about, some little tidbit that doesn't
+seem like it should matter but it does.
 
 I was 
 
 #Act III
 
-_No microcontrollers were harmed in the making of this production._
+_No microcontrollers were harmed in the building of this keyboard._
